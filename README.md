@@ -1,4 +1,6 @@
-### SYNCHRONOUS-UP-COUNTER
+### NAME :PRANAV S
+### REG NO:24900037
+### EXPERIMENT: SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -43,12 +45,6 @@ out <= out+1;
 end
 endmodule
 
-
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
-Developed by:G.Sindhu Priya Reddy.
-RegisterNumber:24000778
-*/
 
 **RTL LOGIC UP COUNTER**
 ![exp11 logicgate](https://github.com/user-attachments/assets/bfa521aa-1df4-40ab-b1db-9441e7dd34ed)
