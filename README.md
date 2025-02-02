@@ -1,6 +1,6 @@
-### NAME : PRANAV S
-### REG NO : 24900037
-### EXPERIMENT 11: SYNCHRONOUS UP COUNTER
+## NAME : PRANAV S
+## REG NO : 24900037
+# EXPERIMENT 11: IMPLEMENTATION OF SYNCHRONOUS UP COUNTER
 
 **AIM:**
 
@@ -64,7 +64,7 @@ endmodule
 ![exp11 logicgate](https://github.com/user-attachments/assets/bfa521aa-1df4-40ab-b1db-9441e7dd34ed)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![exp11 waveform](https://github.com/user-attachments/assets/12929762-f2e7-4f1e-a10f-46e5a15f392c)
+![WhatsApp Image 2025-02-02 at 13 42 41_4e39e703](https://github.com/user-attachments/assets/7249b026-ced0-4577-9a80-18f9988b84f6)
 
 **TRUTH TABLE**
 ![Screenshot 2024-12-18 215711](https://github.com/user-attachments/assets/57e2cec4-83aa-47a7-8b6a-1fe6507238f8)
